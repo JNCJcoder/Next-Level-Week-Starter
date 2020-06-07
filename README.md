@@ -15,6 +15,9 @@
   </a>
 </p>
 
+<img src=".github/image.png" alt="Imagem">
+
+
 ## 💻 Informações:
 
 O Ecoleta é uma aplicação para ajudar as pessoas a encontrarem pontos de coleta para reciclagem em sua cidade. 
