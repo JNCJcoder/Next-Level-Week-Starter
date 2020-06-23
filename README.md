@@ -26,6 +26,7 @@ Criado usando a ideia de Template Engine e Sqlite para guardar as informações.
 
 As aulas foram ministradas pelo [Mayk Brito](https://github.com/maykbrito) da Rocketseat.
 
+Eu tambem participei da "trilha" [Booster](https://github.com/drawciamage/Next-Level-Week-Booster) da Next Level Week.
 
 ## 📝Licença
 Este projeto está sob a licença [MIT](LICENSE.md).
